@@ -1,5 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
+const settings = require('./settings.json')
 
 var prefix = '>'
 
@@ -135,4 +136,4 @@ Commands:
     }
 });
 
-client.login('token');
+client.login(settings.token);
