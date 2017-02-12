@@ -1,7 +1,7 @@
 {
-  "name": "discordbot",
-  "version": "0.0.1",
-  "description": "",
+  "name": "10-Man-Bot",
+  "version": "1.0.0",
+  "description": "A bot that helps you in making 10-Man Scrimms",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
